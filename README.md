@@ -5,7 +5,8 @@
 
 ## Overview
 
-* [User](http://www.dirigible.io/api/http_client.html) - gives the information about the currently logged in user, if any
+* [User](http://www.dirigible.io/api/http_client.html)
+  - gives the information about the currently logged in user, if any
 
 ## License
 
