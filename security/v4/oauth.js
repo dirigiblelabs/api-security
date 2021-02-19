@@ -51,5 +51,5 @@ exports.verify = function(token) {
         console.warn("Error occured while validating JWT: " + e);
         return false;
     }
-    return true
-}
+    return true;
+};
