@@ -12,3 +12,8 @@ exports.getUser = function() {
 	var user = require('security/v4/user');
 	return user;
 };
+
+exports.getOAuth = function() {
+	var oauth = require('security/v4/oauth');
+	return oauth;
+};
