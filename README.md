@@ -5,8 +5,10 @@
 
 ## Overview
 
-* [User](http://www.dirigible.io/api/http_client.html)
+* [User](https://www.dirigible.io/api/user/)
   - gives the information about the currently logged in user, if any
+* [OAuth](https://www.dirigible.io/api/security/oauth/)
+  - gives the JWT related information about the currently logged in user, if any
 
 ## License
 
