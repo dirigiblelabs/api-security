@@ -1,4 +1,4 @@
-# API V3 - Security
+# API V4 - Security
 
 [![Eclipse License](http://img.shields.io/badge/license-Eclipse-brightgreen.svg)](LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/api-v3-security.svg)](https://github.com/dirigiblelabs/api-v3-security/graphs/contributors)
