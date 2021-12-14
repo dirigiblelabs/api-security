@@ -8,7 +8,7 @@
  * Contributors:
  *   SAP - initial API and implementation
  */
-var oauth = require('security/v4/oauth');
-for(var propertyName in oauth) {
+const oauth = require('security/v4/oauth');
+for(const propertyName in oauth) {
 	exports[propertyName] = oauth[propertyName];
 }

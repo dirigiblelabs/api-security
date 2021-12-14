@@ -9,11 +9,11 @@
  *   SAP - initial API and implementation
  */
 exports.getUser = function() {
-	var user = require('security/v4/user');
+	const user = require('security/v4/user');
 	return user;
 };
 
 exports.getOAuth = function() {
-	var oauth = require('security/v4/oauth');
+	const oauth = require('security/v4/oauth');
 	return oauth;
 };
